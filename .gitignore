@@ -1,0 +1,20 @@
+# Build directories
+build/
+cmake-build-*/
+
+# Qt generated files
+*.moc
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# Compiled binaries
+*.exe
+*.out
+taskmanager
+
+# IDE files
+.idea/
+*.pro.user
+.vscode/
+*.swp
